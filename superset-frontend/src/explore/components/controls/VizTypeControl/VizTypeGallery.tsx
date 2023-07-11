@@ -92,6 +92,7 @@ const DEFAULT_ORDER = [
   'deck_grid',
   'deck_screengrid',
   'treemap_v2',
+  'treemap_copy',
   'box_plot',
   'sunburst',
   'sankey',

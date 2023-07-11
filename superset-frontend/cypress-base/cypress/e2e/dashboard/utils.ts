@@ -30,6 +30,7 @@ export const WORLD_HEALTH_CHARTS = [
   { name: "World's Pop Growth", viz: 'area' },
   { name: 'Life Expectancy VS Rural %', viz: 'bubble' },
   { name: 'Treemap', viz: 'treemap_v2' },
+  { name: 'TreemapCopy', viz: 'treemap_copy' },
   { name: 'Box plot', viz: 'box_plot' },
 ] as ChartSpec[];
 
@@ -54,6 +55,7 @@ export const SUPPORTED_TIER2_CHARTS = [
   { name: 'Gauge Chart', viz: 'gauge_chart' },
   { name: 'Radar Chart', viz: 'radar' },
   { name: 'Treemap V2 Chart', viz: 'treemap_v2' },
+  { name: 'Treemap V2 Copy Chart', viz: 'treemap_copy' },
   { name: 'Mixed Chart', viz: 'mixed_timeseries' },
 ] as ChartSpec[];
 
